@@ -1,0 +1,24 @@
+.countryContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.countryName {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.countryList {
+  display: flex;
+  padding: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  list-style-type: none;
+}
+
+.countryFLag {
+  text-align: center;
+}
